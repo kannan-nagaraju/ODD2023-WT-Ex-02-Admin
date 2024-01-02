@@ -1,5 +1,6 @@
 # Ex-03-Admin User using function-based views
 Name:R.Naveen Kumar
+
 Reference No:23013356
 # AIM
 Create a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users. 1.Creating five users
